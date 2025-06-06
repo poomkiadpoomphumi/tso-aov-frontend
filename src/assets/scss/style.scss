@@ -1,0 +1,21 @@
+@use 'themes-vars' as *;
+@use 'plugins/plugins' as *;
+
+
+/* breadcrumb */
+.link-breadcrumb {
+  font-size: 0.75rem;
+  display: flex;
+  text-decoration: none;
+}
+
+/* card */
+
+.card-header {
+  font-weight: 600 !important;
+  font-size: 15px;
+}
+
+.apexcharts-legend-marker {
+  margin-right: 8px !important;
+}
